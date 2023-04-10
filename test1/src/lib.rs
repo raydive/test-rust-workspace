@@ -1,4 +1,4 @@
-extern crate test2;
+use test2;
 
 pub fn add(left: usize, right: usize) -> usize {
     test2::add(left, right)
